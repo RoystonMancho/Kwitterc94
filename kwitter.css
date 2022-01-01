@@ -1,0 +1,16 @@
+body{
+    background-color:skyblue;    
+    }
+    Label{
+    font-size:25px;    
+    }
+    #login_button{
+    font-size:22px;    
+    }
+    #user_name{
+    font-size:25px;
+    }
+        #logout_button{
+        background-color:lightskyblue;
+        margin-left:1050px;    
+        }
